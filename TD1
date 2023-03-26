@@ -258,4 +258,4 @@ tmux ls
 tmux kill-server
 
 #21. List all sessions
-tmux ls
+tmux ls  
