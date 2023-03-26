@@ -166,13 +166,13 @@ sudo cat .private_file
 ls -a
 
 ## 3. Modify the file in normal user mode
-(a) Write some new information in the file
+## (a) Write some new information in the file
 
 ## (b) Display the file content
 Impossible because of root privilege
 
 ## 4. Modify the file in root user mode
-(a) Write some new information in the file
+## (a) Write some new information in the file
 sudo -i vim .private_file i Hala Madrid  
 
 ## (b) Display the file content cat private_file
